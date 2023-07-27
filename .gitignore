@@ -1,4 +1,5 @@
 *.root
 *.txt
+*.sh
 ScoutingAnalyzer/python/__pycache__
 ScoutingAnalyzer/test/__pycache__
