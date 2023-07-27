@@ -1,0 +1,13 @@
+<use name="FWCore/Framework"/>
+<use name="FWCore/ParameterSet"/>
+<use name="FWCore/PluginManager"/>
+<use name="FWCore/ServiceRegistry"/>
+<use name="PhysicsTools/UtilAlgos"/>
+<use name="PhysicsTools/TensorFlow"/>
+<use name="HLTrigger/HLTcore"/>
+<use name="TrackingTools/TransientTrack"/>
+<use name="TrackingTools/Records"/>
+<use name="RecoVertex/KalmanVertexFit"/>
+<use name="RecoVertex/VertexPrimitives"/>
+<use name="root"/>
+<flags EDM_PLUGIN="1"/>
